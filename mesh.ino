@@ -93,7 +93,7 @@ void loop() {
 }
 
 void sendMessage() {
-  String msg = "Hello from M5StickC ";
+  String msg = "Hello from ID: ";
   msg += mesh.getNodeId();
   msg += " myFreeMemory: " + String(ESP.getFreeHeap());
   mesh.sendBroadcast(msg);
