@@ -33,7 +33,7 @@ Before starting this lab, you should have:
 
 - **Task 1**: Follow the guide to initialize your M5StickC devices into a mesh network. Ensure each device can join the network and communicate with others.
 
-- **Task 2**: Modify the [example code](mesh.ino) to send a simple "Hello from M5StickC [ID]" message from each device, where [ID] is the ID to uniquely identify each M5StickC in the network. Make sure the MESH_SSID and MESH_PASSWORD are as follows:
+- **Task 2**: Modify the [example code](mesh.ino) to send a simple "Hello from M5StickC [ID]" message from each device, where [ID] is the ID to uniquely identify each M5StickC in the network. Make sure the MESH_SSID and MESH_PASSWORD are as follows so that everyone joins the 'same' mesh network:
 ```
 #define   MESH_SSID       "csc2106meshy"
 #define   MESH_PASSWORD   "meshpotatoes"
