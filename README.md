@@ -39,7 +39,7 @@ Before starting this lab, you should have:
 
 ### Advanced Exercise for Testing
 
-Once you have the basic mesh network up and running, challenge yourself with the following advanced exercise:
+Once you have the basic mesh network up and running, challenge yourself with the following advanced exercise (hint are available [here](hint.md)):
 
 - **Custom Message Routing Protocol**: Modify your code to implement a custom message routing protocol. Your protocol should include message priority handling, where messages tagged as "High Priority" are processed before others in the network queue. You can implement this in user code and do not need to modify the library directly.
 
