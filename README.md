@@ -27,7 +27,7 @@ Before starting this lab, you should have:
 
 3. **Follow the Guide**: This lab session is based on the comprehensive guide provided by Random Nerd Tutorials on setting up ESP-MESH with ESP32 and ESP8266 using the painlessMesh library. Please follow the detailed steps provided in the guide to set up your mesh network: [ESP-MESH with ESP32 and ESP8266 using painlessMesh](https://randomnerdtutorials.com/esp-mesh-esp32-esp8266-painlessmesh/).
 
-## Lab Exercises
+## Lab Assignment
 
 ### Basic Mesh Network Setup
 
@@ -42,7 +42,7 @@ Before starting this lab, you should have:
 
 - **Task 3**: Implement functionality to display received messages on the M5StickC's screen.
 
-### Advanced Exercise for Testing
+### Advanced Tasks (Not For Submission)
 
 Once you have the basic mesh network up and running, challenge yourself with the following advanced exercise (hint are available [here](hint.md)):
 
